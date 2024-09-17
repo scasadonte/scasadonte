@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steve! <br/><a href="https://github.com/scasadonte">Programmer</a>, <a href="https://www.linkedin.com/in/stephen-casadonte/"></h1>
+<h1>Hi, I'm Steve! <br/><a href="https://github.com/scasadonte">Programmer, Sysadmin, Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/stephen-casadonte/"></h1>
 
 <h2>Software Development Projects:</h2>
 
