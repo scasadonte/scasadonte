@@ -2,6 +2,6 @@
 
 <h2>Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure / Cloud Security</b>
   - [Implementation of a mini Soc/Honeynet on Microsoft Azure](https://github.com/scasadonte/Azure-SIEM)
 
